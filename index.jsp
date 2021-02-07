@@ -26,6 +26,6 @@ Orpaz Joseph & Itzik Ben-Shitrit
 <br>
 DevOps Course - Final Project, HIT, 2021
 <br>
-Check Monitor #1
+Check Monitor #2
 </body>
 </html>
