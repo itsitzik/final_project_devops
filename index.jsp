@@ -1,6 +1,6 @@
 <html>
 <head><title>A First JSP page</title></head>
-<body><h1>A short JSP example</h1>
+<body><h1>This is a change for the project</h1>
 <form method=POST>Please enter your age here <input name=age></form>
 <%
 int value = 0;
